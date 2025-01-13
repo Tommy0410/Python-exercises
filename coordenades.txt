@@ -1,0 +1,8 @@
+42.4 user1
+42.1361 user2
+34.4 user3
+11.2 user4
+42.8 user5
+34.6 user6
+11.8 user7
+10.2 user8
